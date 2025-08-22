@@ -71,7 +71,7 @@ ENG_NUMBERS = {
     "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
     "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, ...
 
-#and config has 2 versions WELCOME_MESSAGE that just ASCII with front arrows with text "Project-AID" 
+#and config has WELCOME_MESSAGE that just ASCII with front arrows with text "Project-AID" 
 ```
 
 ## Voice commands
