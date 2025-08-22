@@ -1,0 +1,10 @@
+vosk
+torch
+sounddevice
+fuzzywuzzy
+python-Levenshtein
+openai
+numpy
+simpleaudio
+pvporcupine
+pvrecorder
